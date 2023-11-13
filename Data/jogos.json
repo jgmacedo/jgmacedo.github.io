@@ -32,7 +32,7 @@
       "id": 3,
       "nome": "mais vendidos de todos os tempos (na Amazon)",
       "top1": "Bíblia Sagrada",
-      "top2": "O ermelho (Citações do Presidente Mao Tse-Tung)",
+      "top2": "O Livro Vermelho (Citações do Presidente Mao Tse-Tung)",
       "top3": "O Alquimista, de Paulo Coelho",
       "top4": "O Pequeno Príncipe, de Antoine de Saint-Exupéry",
       "top5": "Harry Potter e a Pedra Filosofal, de J.K. Rowling",
@@ -281,7 +281,7 @@
     "top10": "Apple - US$ 297,51 bilhão"
 },
     {
-      "id": 20,
+      "id": 21,
       "nome": "Espécies de pássaros mais comuns no Brasil",
       "top1": "Beija-flor",
       "top2": "Calopsita",
@@ -296,7 +296,7 @@
   }
   ,
     {
-      "id": 21,
+      "id": 22,
       "nome": "Flores mais bonitas do mundo",
       "top1": "Rosa",
       "top2": "Tulipas",
@@ -310,7 +310,7 @@
       "top10": "Dália"
   },
   {
-    "id": 22,
+    "id": 23,
     "nome": "Esportes mais praticados",
     "top1": "Futebol",
     "top2": "Críquete",
@@ -324,7 +324,7 @@
     "top10": "Futebol americano"
 },
 {
-  "id": 23,
+  "id": 24,
   "nome": "Maiores Premios Nobel da história",
   "top1": "Comitê Internacional da Cruz Vermelha",
   "top2": "Martin Luther King Jr.",
@@ -339,7 +339,7 @@
 }
 ,
 {
-  "id": 24,
+  "id": 25,
   "nome": "Monumentos mais visitados",
   "top1": "Grande Bazar, Istambul, Turquia",
   "top2": "Zócalo, Cidade do México, México",
@@ -395,7 +395,7 @@
   "top10": "Limonada"
 },
 {
-  "id": 30,
+  "id": 29,
   "nome": "Pratos típicos brasileiros",
   "top1": "Feijoada[^1^][9]",
   "top2": "Moqueca[^1^][9]",
@@ -409,7 +409,7 @@
   "top10": "Galinhada[^3^][8]"
 },
 {
-  "id": 31,
+  "id": 30,
   "nome": "Novelas mais assistidas",
   "top1": "Fina Estampa",
   "top2": "Avenida Brasil",
